@@ -2,7 +2,6 @@
   "name": "goinside",
   "version": "0.1.0",
   "description": "a command line tool that makes it easy to go inside docker containers",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,6 +14,10 @@
   ],
   "author": "Soorena Soleimani",
   "license": "MIT",
+  "bin": {
+    "goinside": "index.js"
+  },
+  "preferGlobal": true,
   "bugs": {
     "url": "https://github.com/iamsoorena/goinside/issues"
   },
