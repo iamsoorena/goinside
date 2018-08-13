@@ -1,6 +1,6 @@
 {
   "name": "goinside",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "a command line tool that makes it easy to go inside docker containers",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
