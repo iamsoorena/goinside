@@ -15,7 +15,8 @@
   "author": "Soorena Soleimani",
   "license": "MIT",
   "bin": {
-    "goinside": "index.js"
+    "goinside": "index.js",
+    "dlist": "dlist.js"
   },
   "preferGlobal": true,
   "bugs": {
