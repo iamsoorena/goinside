@@ -1,7 +1,7 @@
-# goinside
+# Goinside
 *goinside* is a command line tool that helps you run bash inside docker containers easily.
 
-# installation
+## installation
 install package globally on your system:
 ```
 npm i goinside -g
@@ -10,7 +10,7 @@ or if you prefer yarn:
 ```
 yarn global install goinside
 ```
-# usage
+## usage
 let's say you have a docker container that has `bash` installed in it.
 ```
 docker run -d  --name test_container ubuntu tail -F nothing
