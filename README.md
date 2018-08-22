@@ -4,7 +4,7 @@
 # installation
 install package globally on your system:
 ```
-$ npm i goinside -g
+npm i goinside -g
 ```
 or if you prefer yarn:
 ```
