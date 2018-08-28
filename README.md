@@ -33,7 +33,7 @@ Now you can open up a terminal inside your container([with proper size](https://
 goinside test_container
 ```
 ### dlist
-Also this package comes with a modified version of `docker ps` command named `dlist`, you can use this one simpley by typing:
+Also this package comes with a modified version of `docker ps` command named `dlist`, you can use this one simply by typing:
 ```
 dlist
 ```
