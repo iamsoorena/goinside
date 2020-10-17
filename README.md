@@ -30,7 +30,7 @@ docker run -d  --name test_container ubuntu tail -F nothing
 ```
 Now you can open up a terminal inside your container([with proper size](https://stackoverflow.com/questions/38786615/docker-number-of-lines-in-terminal-changing-inside-docker)):
 ```
-goinside test_container
+goinside test_container [bash/sh]
 ```
 ### dlist
 Also this package comes with a modified version of `docker ps` command named `dlist`, you can use this one simply by typing:
